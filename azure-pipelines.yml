@@ -1,6 +1,7 @@
 # Maven
 # Build your Java project and run tests with Apache Maven.
 # Add steps that analyze code, save build artifacts, deploy, and more:
+#[![Build Status](https://dev.azure.com/vishalnhy/Test_POC_1/_apis/build/status/vishalnhy.test1?branchName=master)](https://dev.azure.com/vishalnhy/Test_POC_1/_build/latest?definitionId=1&branchName=master)
 # https://docs.microsoft.com/azure/devops/pipelines/languages/java
 
 trigger:
